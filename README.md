@@ -1,5 +1,9 @@
 ### List of Technical Articles Written
 \
+[Identifying Vulnerabilities in Running Applications Using DAST](https://semaphoreci.com/blog/dast-tools) - DAST tools are vital in the DevSecOps pipeline due to the rapid release of software in today's fast-paced development environment. Incorporating security testing into the development process is essential to promptly detect and address flaws. The immediate feedback provided by DAST tools plays a critical role in ensuring the application's security posture.
+
+[]() - 
+
 [Handling Paystack transactions using webhooks](https://dev.to/ifedayo/handling-paystack-transactions-using-webhooks-4k61) - Do you want to simplify `Paystack transaction` management and streamline your payment processing? Then you'll want to check out this article on handling Paystack transactions using webhooks. Webhooks provide a seamless way to automate the handling of payments, send notifications for successful transactions, and manage failed transactions with ease. With the power of `webhooks`, you'll no longer have to spend hours processing transactions manually. This article will guide you through the process of setting up webhooks, ensuring they are secure, and testing and debugging your webhook system.
 Don't let manual payment processing bog you down! Learn how to handle Paystack transactions like a pro with webhooks and take your business to the next level.
 
