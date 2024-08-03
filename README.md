@@ -1,5 +1,7 @@
 ### List of Technical Articles Written
 \
+[Production-Ready Vault Deployment on EC2: A Detailed Guide](https://dev.to/ifedayo/production-ready-vault-deployment-on-ec2-a-detailed-guide-19g0) - Deploying `HashiCorp Vault` on `EC2` involves several critical steps to ensure a secure and reliable setup. This guide provides a comprehensive walkthrough of configuring Vault for production use on AWS EC2 instances. Topics covered include instance selection, security group configuration, high availability setup, and best practices for securing Vault. Readers will learn how to effectively deploy Vault to manage secrets and sensitive data in a robust `production environment`, leveraging AWS EC2's scalability and reliability.
+
 [DevSecOps in Practice: Integrating Security in the Development Lifecycle](https://www.civo.com/learn/devsecops-monitoring) - `DevSecOps` integrates security practices into the DevOps workflow, shifting `security` left and making it an integral part of the entire software delivery pipeline. This proactive integration ensures security measures are applied at every stage, from code development to testing, deployment, and operations. DevSecOps monitoring continuously assesses application and infrastructure security through data collection, analysis, and interpretation, enabling timely vulnerability identification, threat detection, and incident response.
 Throughout this tutorial, I was able to take readers through DevSecOps monitoring while leveraging `Civo's` capabilities for enhanced application security.
 
